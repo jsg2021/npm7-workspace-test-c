@@ -1,0 +1,12 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/jsg2021/npm7-workspace-test-c.git"
+  },
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}
