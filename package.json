@@ -9,11 +9,5 @@
   "dependencies": {
     "esm": "^3.2.25",
     "internal": "./"
-  },
-  "devDependencies": {
-    "abort-controller": "^3.0.0"
-  },
-  "bundleDependencies": [
-    "abort-controller"
-  ]
+  }
 }
